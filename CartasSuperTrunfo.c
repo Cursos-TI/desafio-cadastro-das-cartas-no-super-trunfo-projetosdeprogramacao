@@ -9,6 +9,30 @@
 int main() {
     printf("Desafio Super Trungo - Paises!\n");
 
+    printf("Estado A - Ceará!\n");
+    printf("Carta 1!\n");
+
+    char estado;
+    char código [50];
+    char cidade[50];
+    int população;
+    float área;
+    float PIB;
+    int turisticos;
+
+    printf("Digite o estado: \n");
+    scanf("%s", &estado);
+
+    printf("Digite o código da Carta: \n");
+    scanf("%s", &código);
+
+    printf()
+
+
+
+
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
